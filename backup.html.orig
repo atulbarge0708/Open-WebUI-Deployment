@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+hi i am from India
+this is very important file for prod
+and i am backup file for prod
+this is for testing merging conflicts
+=======
+ohi i am from India
+and i am backup file for prod
+now trying to resolve via git tool
+>>>>>>> testing
